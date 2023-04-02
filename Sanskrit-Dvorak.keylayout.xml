@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
+<keyboard group="0" id="2000" name="Dvorak to Sanskrit">
+  <layouts>
+    <layout first="0" last="0" mapSet="Dvorak to Sanskrit" modifiers="2000"/>
+  </layouts>
+  <modifierMap id="2000" defaultIndex="0">
+    <keyMapSelect mapIndex="0">
+      <modifier keys=""/>
+    </keyMapSelect>
+  </modifierMap>
+  <keyMapSet id="Dvorak to Sanskrit">
+    <keyMap index="0">
+      <key code="0" output="U+0905"/> <!-- Dvorak 'A' key mapped to Sanskrit 'अ' -->
+      <key code="1" output="U+0906"/> <!-- Dvorak 'O' key mapped to Sanskrit 'आ' -->
+      <key code="2" output="U+0907"/> <!-- Dvorak 'E' key mapped to Sanskrit 'इ' -->
+      <key code="3" output="U+0908"/> <!-- Dvorak 'U' key mapped to Sanskrit 'ई' -->
+      <key code="4" output="U+0909"/> <!-- Dvorak 'I' key mapped to Sanskrit 'उ' -->
+      <key code="5" output="U+090A"/> <!-- Dvorak 'D' key mapped to Sanskrit 'ऊ' -->
+      <key code="6" output="U+090F"/> <!-- Dvorak 'H' key mapped to Sanskrit 'ए' -->
+      <key code="7" output="U+0910"/> <!-- Dvorak 'T' key mapped to Sanskrit 'ऐ' -->
+      <key code="8" output="U+0913"/> <!-- Dvorak 'N' key mapped to Sanskrit 'ओ' -->
+      <key code="9" output="U+0914"/> <!-- Dvorak 'S' key mapped to Sanskrit 'औ' -->
+      <key code="10" output="U+0915"/> <!-- Dvorak '-' key mapped to Sanskrit 'क' -->
+      <key code="11" output="U+0916"/> <!-- Dvorak '_' key mapped to Sanskrit 'ख' -->
+      <key code="12" output="U+0917"/> <!-- Dvorak ':' key mapped to Sanskrit 'ग' -->
+      <key code="13" output="U+0918"/> <!-- Dvorak ';' key mapped to Sanskrit 'घ' -->
+      <key code="14" output="U+0919"/> <!-- Dvorak 'Q' key mapped to Sanskrit 'ङ' -->
+      <key code="15" output="U+091A"/> <!-- Dvorak 'J' key mapped to Sanskrit 'च' -->
+      <key code="16" output="U+091B"/> <!-- Dvorak 'K' key mapped to Sanskrit 'छ' -->
+      <key code="17" output="U+091C"/> <!-- Dvorak 'C' key mapped to Sanskrit 'ज' -->
+      <key code="18" output="U+091D"/> <!-- Dvorak 'V' key mapped to Sanskrit 'झ' -->
+      <key code="19" output="U+091E"/> <!-- Dvorak 'B' key mapped to Sanskrit 'ञ' -->
+      <key code="20" output="U+091F"/> <!-- Dvorak 'M' key mapped to Sanskrit 'ट' -->
+      <key code="21" output="U+0920"/> <!-- Dvorak 'W' key mapped to Sanskrit 'ठ' -->
+      <key code="22" output="U+0921"/> <!-- Dvorak 'V' key mapped to Sanskrit 'ड' -->
+      <key code="23" output="U+0922"/> <!-- Dvorak 'Z' key mapped to Sanskrit 'ढ' -->
+      <key code="24" output="U+0923"/> <!-- Dvorak '{' key mapped to Sanskrit 'ण' -->
+      <key code="25" output="U+0924"/> <!-- Dvorak '}' key mapped to Sanskrit 'त' -->
+      <key code="26" output="U+0925"/> <!-- Dvorak '[' key mapped to Sanskrit 'थ' -->
+      <key code="27" output="U+0926"/> <!-- Dvorak ']' key mapped to Sanskrit 'द' -->
+      <key code="28" output="U+0927"/> <!-- Dvorak 'L' key mapped to Sanskrit 'ध' -->
+      <key code="29" output="U+0928"/> <!-- Dvorak 'R' key mapped to Sanskrit 'न' -->
+      <key code="30" output="U+092F"/> <!-- Dvorak 'P' key mapped to Sanskrit 'य' -->
+      <key code="31" output="U+092B"/> <!-- Dvorak 'G' key mapped to Sanskrit 'फ' -->
+      <key code="32" output="U+092C"/> <!-- Dvorak 'F' key mapped to Sanskrit 'ब' -->
+      <key code="33" output="U+092D"/> <!-- Dvorak 'Y' key mapped to Sanskrit 'भ' -->
+      <key code="34" output="U+092E"/> <!-- Dvorak 'P' key mapped to Sanskrit 'म' -->
+    </keyMap>
+  </keyMapSet>
+</keyboard>
