@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<keyboard group="0" id="2000" name="DvorakToSanskrit">
+<keyboard group="0" id="2000" name="Sanskrit (Dvorak)">
   <layouts>
-    <layout first="0" last="0" mapSet="DvorakToSanskrit" modifiers="2000"/>
+    <layout first="0" last="0" mapSet="Sanskrit(Dvorak)" modifiers="2000"/>
   </layouts>
   <modifierMap id="2000" defaultIndex="0">
     <keyMapSelect mapIndex="0">
       <modifier keys=""/>
     </keyMapSelect>
   </modifierMap>
-  <keyMapSet id="DvorakToSanskrit">
+  <keyMapSet id="Sanskrit(Dvorak)">
     <keyMap index="0">
       <key code="0" output="अ"/> <!-- Dvorak 'A' key mapped to Sanskrit 'अ' -->
       <key code="1" output="आ"/> <!-- Dvorak 'O' key mapped to Sanskrit 'आ' -->
